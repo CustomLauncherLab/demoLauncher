@@ -18,7 +18,6 @@ win:
   target: 
     - target: 'nsis'
       arch: 'x64'
-  publisherName: 'go-tiger'
 # Windows Installer Configuration
 nsis:
   oneClick: false
